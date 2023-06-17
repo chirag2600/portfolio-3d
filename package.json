@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://portfolio-3d-kigekdhe8-chirag2600.vercel.app",
+  "homepage": "https://portfolio-3d-flax.vercel.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
