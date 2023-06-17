@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://portfolio-3d-flax.vercel.app/",
+  "homepage": "https://venerable-cassata-41104c.netlify.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
